@@ -1,0 +1,18 @@
+.form-control {
+    border: 1px solid gray !important;
+}
+.d-flex {
+    display: flex;
+    justify-content: space-between; /* Space out elements */
+    align-items: center; /* Vertically align items */
+  }
+  
+  .flex-grow-1 {
+    flex-grow: 1; /* Allow the pagination to take up the available space */
+    text-align: center; /* Center the content inside the pagination wrapper */
+  }
+  
+  .pagination {
+    margin-bottom: 0; /* Remove unnecessary bottom margin */
+  }
+  
